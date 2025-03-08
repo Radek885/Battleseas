@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "libdragon.h": "c",
+        "stdio.h": "c",
+        "paperboat.h": "c",
+        "valarray": "c"
+    },
+    "makefile.configureOnOpen": true,
+    "C_Cpp.errorSquiggles": "enabled"
+}
